@@ -11,7 +11,7 @@ body{
     height: 70px;
     background-color: gray;
 }
-.container{
+.container{                       
     margin-left:8%;
     margin-right:8%;
 }
@@ -84,7 +84,7 @@ h1{
     margin-bottom: 2vh;
     height: 25vh;
     width:650px;
-    object-fit: cover;
+    object-fit: cover; 
 
 }
 .lft-box h3{
